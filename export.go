@@ -8,7 +8,7 @@ import "C"
 
 //export cgo_hello
 func cgo_hello() {
-    C.hello()
+	C.hello()
 }
 
 func main() {}
