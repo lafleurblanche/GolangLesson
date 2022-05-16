@@ -7,5 +7,5 @@ package main
 import "C"
 
 func main() {
-    C.hello()
+	C.hello()
 }
